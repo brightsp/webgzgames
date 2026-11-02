@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BlocksConnect-0.1.0";
 const contentToCache = [
-    "Build/savethepets.loader.js",
-    "Build/savethepets.framework.js",
-    "Build/savethepets.data",
-    "Build/savethepets.wasm",
+    "Build/1savethepets.loader.js",
+    "Build/1savethepets.framework.js",
+    "Build/1savethepets.data",
+    "Build/1savethepets.wasm",
     "TemplateData/style.css"
 
 ];
